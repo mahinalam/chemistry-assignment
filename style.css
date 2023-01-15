@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+}
+.hemp{
+    display: flex;
+    justify-content: space-between;
+}
+.hemp-conclusion{
+    text-align: center;
+
+}
+.hemp-fibre{
+    display: flex;
+}
+.submit{
+    display: flex;
+    justify-content: space-between;
+}
+.mah{
+    margin: 0%;
+    color:crimson;
+}
+.dep{
+    text-align: center;
+    color:rgb(24, 24, 226);
+}
+.para p{
+    color: black;
+}
+.hemp-title{
+    color: darkgreen;
+}
+.hemp-conclusion{
+    color: darkgreen;
+}
+.submitted-by h2{
+   color: darkblue;
+   margin-left: 10px;
+}
+.submitted-to{
+    color:darkblue;
+    margin-right: 15px;
+}
+.list{
+    color: black;
+    margin-bottom: 5px;
+}
+.hemp-para{
+    margin-left: 7.5px;
+    margin-right: 7.5px;
+}
